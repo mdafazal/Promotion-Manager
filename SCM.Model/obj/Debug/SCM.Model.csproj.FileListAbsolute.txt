@@ -1,0 +1,5 @@
+D:\Project\Promotion Manager\SCM.Model\bin\Debug\SCM.Model.dll
+D:\Project\Promotion Manager\SCM.Model\bin\Debug\SCM.Model.pdb
+D:\Project\Promotion Manager\SCM.Model\obj\Debug\SCM.Model.csproj.CoreCompileInputs.cache
+D:\Project\Promotion Manager\SCM.Model\obj\Debug\SCM.Model.dll
+D:\Project\Promotion Manager\SCM.Model\obj\Debug\SCM.Model.pdb
